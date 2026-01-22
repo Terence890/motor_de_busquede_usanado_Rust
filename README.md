@@ -1,3 +1,4 @@
+[![Rust](https://github.com/Terence890/motor_de_busquede_usanado_Rust/actions/workflows/rust.yml/badge.svg)](https://github.com/Terence890/motor_de_busquede_usanado_Rust/actions/workflows/rust.yml)
 # fast-search-engine-rust
 
 Minimal in-memory inverted-index search engine demo written in Rust.
